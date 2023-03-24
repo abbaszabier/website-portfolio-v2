@@ -5,7 +5,7 @@
         <div class="col-lg-6">
             <h5>Hi, my name <span class="name">Abbas Zabier M.</span></h5>
             <h1 class="my-professional">I'm a <span class="typing"></span></h1>
-            <p class="mb-4">Hello all 👋, welcome to my personal website. I'm a guy who loves to coding, design, cat, coffee, and music. On this web you can find my projects on portfolio page.</p>
+            <p class="mb-4">Hi all 👋, and welcome to my website. I'm a guy who loves to code, design, cook, drink coffee, and listen to music. On this website, you can find my real projects or personal projects on my portfolio page.</p>
             <a href="/contact"><button type="button" class="btn btn-primary me-4"><i class="bi bi-briefcase me-2"></i> Hire Me</button></a>
             <a href="/portfolio"><button type="button" class="btn btn-outline-primary">My Projects</button></a>
         </div>

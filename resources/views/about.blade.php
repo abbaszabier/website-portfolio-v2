@@ -7,7 +7,7 @@
     </div>
     <div class="col-lg-8 pt-4 pb-4 ps-md-1 mb-3 align-self-center">
       <h2 style="font-family: 'Poppins', serif;">About Me</h2>
-      <p class="mt-2" style="font-family: 'Poppins', serif;">I am Abbas Zabier Mohammad a frontend web developer with a computer science background from IPB University. I am interested in the world of frontend programming, where I have studied programming languages such as HTML, CSS, JavaScript, and PHP. Apart from being interested in programming, I am also interested in the world of UI design, namely making mobile and web designs. The tools I use for designing are Figma or Adobe XD.</p>
+      <p class="mt-2" style="font-family: 'Poppins', serif;">I am Abbas Zabier Mohammad, a frontend web developer with a computer science background from IPB University. I am interested in the world of frontend programming, where I have studied programming languages such as HTML, CSS, JavaScript, and PHP. Apart from being interested in programming, I am also interested in the world of UI design, namely making mobile and web designs. The tools I use for designing are Figma or Adobe XD.</p>
     </div>
   </div>
   <div class="row mb-4">
@@ -67,7 +67,7 @@
         <p><strong>Soft Skills</strong>: Creativity, Fast Learner, Problem Solving, Teamwork.</p>
       </div>
       <div class="col-lg-12">
-        <p><strong>Tools</strong>: Adobe XD, Figma, Visual Studi Code, XAMPP.</p>
+        <p><strong>Tools</strong>: Figma, Visual Studio/Visual Studi Code, XAMPP, SQL Server Management Studio</p>
       </div>
       <div class="col-lg-12">
         <p><strong>Languages</strong>: Indonesia (Native), English (Limited working proficiency).</p>
